@@ -1,0 +1,83 @@
+[
+  {
+    "id": "arc-23-3-b",
+    "madde": "23/3-b",
+    "islemTuru": "Trafikten Men & Muhafaza",
+    "sure": "Tescil plakası takılana kadar",
+    "menKaldirilmaSarti": "Standarda ve tescile uygun plaka monte edilene kadar araç trafikten men edilir, otoparka çekilir.",
+    "yedieminUygulamasi": "Yediemin otoparkına teslim edilir, plaka monte edilmeden kesinlikle teslim edilmez.",
+    "kanuniDayanak": "2918 KTK Md. 23/3-b"
+  },
+  {
+    "id": "arc-23-5-b",
+    "madde": "23/5-b",
+    "islemTuru": "Trafikten Men & Adli El Koyma",
+    "sure": "Savcılık ve tescil işlemi sonuçlanana kadar",
+    "menKaldirilmaSarti": "Sahte veya ikiz plaka takılmış araç trafikten men edilir, TCK 204 kapsamında adli emanete alınır.",
+    "yedieminUygulamasi": "Yediemin otoparkında muhafaza altına alınır, savcılık izni olmadan iade edilmez.",
+    "kanuniDayanak": "2918 KTK Md. 23/5-b, 7574 SK"
+  },
+  {
+    "id": "arc-34-b",
+    "madde": "34/b",
+    "islemTuru": "Trafikten Men",
+    "sure": "Geçici izin belgesi (7 gün) veya muayene yaptırılana kadar",
+    "menKaldirilmaSarti": "Muayenesi yapılmamış araç trafikten men edilir; muayene istasyonuna gitmesi için 7 güne kadar izin belgesi verilebilir.",
+    "yedieminUygulamasi": "Süre bitiminde muayene yaptırılmamışsa otoparka çekilir.",
+    "kanuniDayanak": "2918 KTK Md. 34/b"
+  },
+  {
+    "id": "arc-91",
+    "madde": "91",
+    "islemTuru": "Trafikten Men",
+    "sure": "Zorunlu Mali Sorumluluk Sigortası yapılana kadar",
+    "menKaldirilmaSarti": "Geçerli poliçe düzenlenip sistemden teyit edilene kadar araç yola devam edemez.",
+    "yedieminUygulamasi": "Poliçe ibraz edilene kadar otoparkta tutulur.",
+    "kanuniDayanak": "2918 KTK Md. 91"
+  },
+  {
+    "id": "arc-26-2",
+    "madde": "26/2 & Ek-3",
+    "islemTuru": "Trafikten Men",
+    "sure": "30 Gün Trafikten Men",
+    "menKaldirilmaSarti": "Mevzuata aykırı siren/çakar sistemleri söktürülür, araç 30 gün süreyle trafikten men edilir.",
+    "yedieminUygulamasi": "30 gün boyunca yediemin otoparkında tutulur.",
+    "kanuniDayanak": "2918 KTK Md. 26/2, Ek-3, 7574 SK"
+  },
+  {
+    "id": "arc-30-1-b",
+    "madde": "30/1-b",
+    "islemTuru": "Trafikten Men",
+    "sure": "30 Gün Trafikten Men",
+    "menKaldirilmaSarti": "Abartı egzoz sistemi söktürülüp araç fabrika standardına dönene kadar men edilir (7574 SK ile 30 gün men).",
+    "yedieminUygulamasi": "Yediemin otoparkında muhafaza edilir.",
+    "kanuniDayanak": "2918 KTK Md. 30/1-b, 7574 SK"
+  },
+  {
+    "id": "arc-67-1-d",
+    "madde": "67/1-d",
+    "islemTuru": "Trafikten Men",
+    "sure": "60 Gün Trafikten Men",
+    "menKaldirilmaSarti": "Drift yapılan araç 60 gün süreyle trafikten men edilir.",
+    "yedieminUygulamasi": "60 gün boyunca yediemin otoparkında muhafaza edilir.",
+    "kanuniDayanak": "2918 KTK Md. 67/1-d"
+  },
+  {
+    "id": "arc-65-1-d",
+    "madde": "65/1-d",
+    "islemTuru": "Trafikten Men & Seyre İzin Verilmez",
+    "sure": "Aşım yükü aktarılana kadar",
+    "menKaldirilmaSarti": "Azami yüklü ağırlığın %20-%25 üzerinde aşım yapıldığında fazla yük başka araca aktarılmadan seyre izin verilmez.",
+    "yedieminUygulamasi": "Kantar veya güvenli park alanında bekletilir.",
+    "kanuniDayanak": "2918 KTK Md. 65/1-d"
+  },
+  {
+    "id": "arc-65-1-e",
+    "madde": "65/1-e",
+    "islemTuru": "Trafikten Men & Seyre İzin Verilmez",
+    "sure": "Aşım yükü aktarılana kadar",
+    "menKaldirilmaSarti": "Azami yüklü ağırlığın %25 üzerinde aşım yapıldığında kesinlikle seyre izin verilmez, men edilir.",
+    "yedieminUygulamasi": "Kantar sahasında veya güvenli park alanında bekletilir.",
+    "kanuniDayanak": "2918 KTK Md. 65/1-e"
+  }
+]

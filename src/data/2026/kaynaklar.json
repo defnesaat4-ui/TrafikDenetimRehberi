@@ -1,0 +1,43 @@
+[
+  {
+    "id": "src-egm-2026",
+    "adi": "2026 Yılı Trafik Ceza Rehberi ve Ceza Puanı Cetveli",
+    "kurum": "Emniyet Genel Müdürlüğü Trafik Başkanlığı",
+    "yili": 2026,
+    "yayimTarihi": "2026-01-01",
+    "aciklama": "2918 sayılı Karayolları Trafik Kanunu ve Karayolları Trafik Yönetmeliği kapsamında uygulanan idari para cezaları ve ceza puanları resmi kılavuzu.",
+    "url": "https://www.egm.gov.tr/trafik",
+    "versiyon": "2026.01.01"
+  },
+  {
+    "id": "src-resmigazete-7574",
+    "adi": "7574 Sayılı Karayolları Trafik Kanununda Değişiklik Yapılmasına Dair Kanun",
+    "kurum": "T.C. Cumhurbaşkanlığı / Resmî Gazete",
+    "yili": 2026,
+    "yayimTarihi": "2026-02-27",
+    "resmiGazeteNo": "33181",
+    "aciklama": "Polisin dur ihtarına uymama, sahte/mükerrer plaka, abartı egzoz, çakar lamba ve drift gibi kamu düzenini bozan ağır ihlallerde 2026 yılında getirilen ağırlaştırılmış yaptırımlar ve yeni para cezaları.",
+    "url": "https://www.resmigazete.gov.tr",
+    "versiyon": "2026.02.27"
+  },
+  {
+    "id": "src-gib-vuk-564",
+    "adi": "Vergi Usul Kanunu Genel Tebliği (Sıra No: 564) - 2026 Yılı Yeniden Değerleme Oranı",
+    "kurum": "T.C. Hazine ve Maliye Bakanlığı Gelir İdaresi Başkanlığı",
+    "yili": 2026,
+    "yayimTarihi": "2025-11-27",
+    "aciklama": "2026 takvim yılı için uygulanacak yeniden değerleme oranı (%25,49) kapsamında güncellenen maktu idari para cezaları ve harçlar cetveli.",
+    "url": "https://www.gib.gov.tr",
+    "versiyon": "2026.01.01"
+  },
+  {
+    "id": "src-ktk-2918-mevzuat",
+    "adi": "2918 Sayılı Karayolları Trafik Kanunu Güncel Metni",
+    "kurum": "Mevzuat Bilgi Sistemi - T.C. Cumhurbaşkanlığı Mevzuat Geliştirme ve Yayın Genel Müdürlüğü",
+    "yili": 2026,
+    "yayimTarihi": "2026-02-27",
+    "aciklama": "Karayolları Trafik Kanununun 2026 yılı güncel tüm madde, fıkra ve bentleri.",
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2918&MevzuatTur=1&MevzuatTertip=5",
+    "versiyon": "2026.02.27"
+  }
+]

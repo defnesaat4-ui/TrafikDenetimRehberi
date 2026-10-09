@@ -1,0 +1,752 @@
+[
+  {
+    "id": "cp-ktk-48-5-1",
+    "madde": "48/5 (1. Defa)",
+    "cezaPuani": 20,
+    "cezaPuaniAciklama": "20 Ceza Puanı",
+    "uygulanan": "Sürücüye",
+    "aciklama": "Hususi otolarda 0.50 promil, ticari ve diğer araçlarda 0.20 promil üzerinde alkollü araç kullanımı (7574 SK güncel).",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 48/5 (7574 SK ile değişik), KTY Md. 97, TCK Md. 179/3",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-48-5-2",
+    "madde": "48/5 (2. Defa)",
+    "cezaPuani": 20,
+    "cezaPuaniAciklama": "20 Ceza Puanı",
+    "uygulanan": "Sürücüye",
+    "aciklama": "Geriye doğru 5 yıl içinde ikinci defa yasal sınırın üzerinde alkollü araç kullanımı (7574 SK güncel).",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 48/5 (7574 SK ile değişik), KTY Md. 97",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-48-5-3",
+    "madde": "48/5 (3. Defa ve Fazlası)",
+    "cezaPuani": 20,
+    "cezaPuaniAciklama": "20 Ceza Puanı",
+    "uygulanan": "Sürücüye",
+    "aciklama": "5 yıl içinde üçüncü veya daha fazla kez alkollü araç kullanan sürücüler (7574 SK güncel).",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 48/5, 7574 Sayılı Kanun, TCK Md. 179/3",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-48-8",
+    "madde": "48/8",
+    "cezaPuani": 20,
+    "cezaPuaniAciklama": "20 Ceza Puanı",
+    "uygulanan": "Sürücüye",
+    "aciklama": "Uyuşturucu veya uyarıcı madde alarak araç kullanıldığı tespit edilen sürücüler (7574 SK güncel).",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 48/8 (7574 SK ile değişik), TCK Md. 191, TCK Md. 179/3",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-48-9",
+    "madde": "48/9",
+    "cezaPuani": 20,
+    "cezaPuaniAciklama": "20 Ceza Puanı",
+    "uygulanan": "Sürücüye",
+    "aciklama": "Teknik cihazla alkol veya uyuşturucu testi yapılmasını kabul etmemek / üflemeyi reddetmek (7574 SK güncel).",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 48/9 (7574 SK ile değişik), KTY Md. 97",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-36-3-a",
+    "madde": "36/3-a",
+    "cezaPuani": null,
+    "cezaPuaniAciklama": "Ceza puanı uygulanmaz",
+    "uygulanan": "Sürücüye ve Araç Sahibine (Çift Ceza)",
+    "aciklama": "Hiç sürücü belgesi (ehliyeti) bulunmayan kişilerin araç kullanması ve kullandırılması (7574 SK güncel).",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 36/3-a (7574 SK ile değişik)",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-36-3-b",
+    "madde": "36/3-b",
+    "cezaPuani": null,
+    "cezaPuaniAciklama": "Ceza puanı uygulanmaz",
+    "uygulanan": "Sürücüye ve Araç Sahibine (Çift Ceza)",
+    "aciklama": "Mahkeme, savcılık veya trafik zabıtası tarafından belgesi geri alınanların araç kullanması (7574 SK güncel).",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 36/3-b (7574 SK ile değişik)",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-36-3-c",
+    "madde": "36/3-c",
+    "cezaPuani": null,
+    "cezaPuaniAciklama": "Ceza puanı uygulanmaz",
+    "uygulanan": "Sürücüye ve Araç Sahibine (Çift Ceza)",
+    "aciklama": "Sağlık veya adli nedenlerle sürücü belgesi tamamen iptal edilen kişilerin araç kullanması (7574 SK güncel).",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 36/3-c (7574 SK ile değişik)",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-39-2",
+    "madde": "39/2",
+    "cezaPuani": null,
+    "cezaPuaniAciklama": "Ceza puanı uygulanmaz",
+    "uygulanan": "Sürücüye",
+    "aciklama": "Sürücü belgesinin geçerlilik süresi (eski tip ehliyet veya 5/10 yıllık süre) dolduğu halde araç kullanmak.",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 39/2",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-39-3",
+    "madde": "39/3",
+    "cezaPuani": 20,
+    "cezaPuaniAciklama": "20 Ceza Puanı",
+    "uygulanan": "Sürücüye ve Araç Sahibine (Çift Ceza)",
+    "aciklama": "B sınıfı ehliyetle kamyon, tır, otobüs veya A sınıfı gerektiren ağır motosiklet kullanmak.",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 39/3",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-44-1-b",
+    "madde": "44/1-b",
+    "cezaPuani": 5,
+    "cezaPuaniAciklama": "5 Ceza Puanı",
+    "uygulanan": "Sürücüye",
+    "aciklama": "Araç kullanırken sürücü belgesini yanında bulundurmamak veya polis/jandarma kontrolünde ibraz edememek.",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 44/1-b",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-118-2",
+    "madde": "118/2",
+    "cezaPuani": null,
+    "cezaPuaniAciklama": "Ceza puanı uygulanmaz",
+    "uygulanan": "Sürücüye",
+    "aciklama": "1 yıl içerisinde 100 ceza puanını birinci defa dolduran sürücünün belgesine el konulması.",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 118/2",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-118-3",
+    "madde": "118/3",
+    "cezaPuani": null,
+    "cezaPuaniAciklama": "Ceza puanı uygulanmaz",
+    "uygulanan": "Sürücüye",
+    "aciklama": "Aynı yıl içinde ikinci defa 100 ceza puanını dolduran sürücünün belgesine el konulması.",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 118/3",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-118-4",
+    "madde": "118/4",
+    "cezaPuani": null,
+    "cezaPuaniAciklama": "Ceza puanı uygulanmaz",
+    "uygulanan": "Sürücüye",
+    "aciklama": "1 yıl içinde 3 defa 100 ceza puanını dolduran sürücülerin ehliyetlerinin süresiz iptal edilmesi.",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 118/4",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-20-1-a",
+    "madde": "20/1-a",
+    "cezaPuani": 10,
+    "cezaPuaniAciklama": "10 Ceza Puanı",
+    "uygulanan": "Araç Sahibine",
+    "aciklama": "Aracın satın alma veya gümrükten çekilme tarihinden itibaren yasal 30 gün içinde tescil ettirilmemesi.",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 20/1-a",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-21",
+    "madde": "21",
+    "cezaPuani": 10,
+    "cezaPuaniAciklama": "10 Ceza Puanı",
+    "uygulanan": "Sürücüye",
+    "aciklama": "Satın alınan aracın tescil belgesi ve tescil plakası olmadan karayoluna çıkarılması.",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 21",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-23-3-a-1",
+    "madde": "23/3-a-1",
+    "cezaPuani": null,
+    "cezaPuaniAciklama": "Ceza puanı uygulanmaz",
+    "uygulanan": "Sürücüye / Araç Sahibine",
+    "aciklama": "Plakanın mühürsüz, standart dışı fontta (APP) veya silik harflerle takılması (7574 SK güncel).",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 23/3-a-1 (7574 SK güncel)",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-23-3-b",
+    "madde": "23/3-b",
+    "cezaPuani": null,
+    "cezaPuaniAciklama": "Ceza puanı uygulanmaz",
+    "uygulanan": "Sürücüye",
+    "aciklama": "Plakayı katlanır düzenek, yapışkan, harf değiştirme veya boyama ile bilerek okutmamak (7574 SK güncel).",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 23/3-b (7574 SK ile değişik)",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-23-3-c",
+    "madde": "23/3-c",
+    "cezaPuani": null,
+    "cezaPuaniAciklama": "Ceza puanı uygulanmaz",
+    "uygulanan": "Sürücüye",
+    "aciklama": "Aracın ön veya arka tescil plakası olmadan trafiğe çıkarılması (7574 SK güncel).",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 23/3-c (7574 SK ile değişik)",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-23-5-b",
+    "madde": "23/5-b",
+    "cezaPuani": null,
+    "cezaPuaniAciklama": "Ceza puanı uygulanmaz",
+    "uygulanan": "Sürücüye",
+    "aciklama": "Başka bir araca tescilli veya sahte basılmış plaka takarak araç kullanmak (7574 SK güncel).",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 23/5-b (7574 SK ile değişik), TCK Md. 204",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-25",
+    "madde": "25",
+    "cezaPuani": 10,
+    "cezaPuaniAciklama": "10 Ceza Puanı",
+    "uygulanan": "Sürücüye",
+    "aciklama": "Tescil belgesini (ruhsatı) araçta bulundurmamak veya denetimde görevlilere ibraz edememek.",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 25",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-26-1",
+    "madde": "26/1",
+    "cezaPuani": 5,
+    "cezaPuaniAciklama": "5 Ceza Puanı",
+    "uygulanan": "Araç Sahibine / Sürücüye",
+    "aciklama": "İzinsiz reklam, logo, flama veya görüşü engelleyecek yazılar yapıştırmak.",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 26/1",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-26-2-cakar",
+    "madde": "26/2 & Ek-3",
+    "cezaPuani": 20,
+    "cezaPuaniAciklama": "20 Ceza Puanı",
+    "uygulanan": "Sürücüye ve Araç Sahibine",
+    "aciklama": "Mevzuatta izin verilmeyen sivil araçlara çakar, siren ve flaşör takarak kullanmak (7574 SK güncel).",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 26/2, KTK Ek-3, 7574 Sayılı Kanun",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-34-a",
+    "madde": "34/a",
+    "cezaPuani": 10,
+    "cezaPuaniAciklama": "10 Ceza Puanı",
+    "uygulanan": "Araç Tescil Plakasına / Sürücüye",
+    "aciklama": "Periyodik muayene (vize) süresi geçmiş araçla karayolunda yakalanmak.",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 34/a, Karayolları Trafik Yönetmeliği Md. 68",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-34-b",
+    "madde": "34/b",
+    "cezaPuani": 10,
+    "cezaPuaniAciklama": "10 Ceza Puanı",
+    "uygulanan": "Araç Tescil Plakasına / Sürücüye",
+    "aciklama": "Kendisine 7 gün süre verildiği halde muayenesini yaptırmayan ve araç kullanmaya devam edenler.",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 34/b",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-91",
+    "madde": "91",
+    "cezaPuani": 10,
+    "cezaPuaniAciklama": "10 Ceza Puanı",
+    "uygulanan": "Araç Tescil Plakasına / Sürücüye",
+    "aciklama": "Geçerli zorunlu trafik sigortası poliçesi bulunmayan araçla karayoluna çıkmak.",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 91",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-51-2-a",
+    "madde": "51/2-a",
+    "cezaPuani": 10,
+    "cezaPuaniAciklama": "10 Ceza Puanı",
+    "uygulanan": "Sürücüye veya Tescil Plakasına",
+    "aciklama": "Belirlenen yasal hız sınırını yüzde 10'dan yüzde 30'a kadar (dahil) aşmak.",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 51/2-a",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-51-2-b",
+    "madde": "51/2-b",
+    "cezaPuani": 15,
+    "cezaPuaniAciklama": "15 Ceza Puanı",
+    "uygulanan": "Sürücüye veya Tescil Plakasına",
+    "aciklama": "Belirlenen yasal hız sınırını yüzde 30'dan yüzde 50'ye kadar (dahil) aşmak.",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 51/2-b",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-51-2-c",
+    "madde": "51/2-c",
+    "cezaPuani": 15,
+    "cezaPuaniAciklama": "15 Ceza Puanı",
+    "uygulanan": "Sürücüye veya Tescil Plakasına",
+    "aciklama": "Yasal hız sınırını yüzde 50'den fazla aşmak (7574 SK kademeli yaptırımlar).",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 51/2-c, 7574 Sayılı Kanun",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-52-1-a",
+    "madde": "52/1-a",
+    "cezaPuani": 15,
+    "cezaPuaniAciklama": "15 Ceza Puanı",
+    "uygulanan": "Sürücüye",
+    "aciklama": "Aracın hızını yük durumuna, hava koşullarına (yağmur, sis, buzlanma) ve yol şartlarına uydurmamak.",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 52/1-a",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-52-1-b",
+    "madde": "52/1-b",
+    "cezaPuani": 15,
+    "cezaPuaniAciklama": "15 Ceza Puanı",
+    "uygulanan": "Sürücüye",
+    "aciklama": "Kavşaklara, dönemeçlere, yaya geçitlerine ve tepe üstlerine yaklaşırken hızını düşürmemek.",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 52/1-b",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-47-1-a",
+    "madde": "47/1-a",
+    "cezaPuani": 20,
+    "cezaPuaniAciklama": "20 Ceza Puanı",
+    "uygulanan": "Sürücüye",
+    "aciklama": "Trafiği yöneten trafik zabıtasının uyarı, işaret ve DUR ihtarına uymayarak kaçmak (7574 SK ağır yaptırım).",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 47/1-a (7574 SK ile değişik), TCK Md. 179/2",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-47-1-b",
+    "madde": "47/1-b",
+    "cezaPuani": 20,
+    "cezaPuaniAciklama": "20 Ceza Puanı",
+    "uygulanan": "Sürücüye veya Tescil Plakasına",
+    "aciklama": "Işıklı trafik işaretlerinde kırmızı ışıkta geçmek (7574 SK kademeli artış).",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 47/1-b, 7574 Sayılı Kanun",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-47-1-c",
+    "madde": "47/1-c",
+    "cezaPuani": 20,
+    "cezaPuaniAciklama": "20 Ceza Puanı",
+    "uygulanan": "Sürücüye veya Tescil Plakasına",
+    "aciklama": "Trafik levhalarına, düz çizgiye, yön oklarına ve yatay işaretlemelere aykırı hareket etmek.",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 47/1-c",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-47-1-d",
+    "madde": "47/1-d",
+    "cezaPuani": 20,
+    "cezaPuaniAciklama": "20 Ceza Puanı",
+    "uygulanan": "Sürücüye",
+    "aciklama": "Kanunda ayrıca özel bir ceza belirlenmemiş genel trafik kural ve yasaklarına aykırı davranmak.",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 47/1-d",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-73-c",
+    "madde": "73/c",
+    "cezaPuani": 10,
+    "cezaPuaniAciklama": "10 Ceza Puanı",
+    "uygulanan": "Sürücüye",
+    "aciklama": "Araç sürerken cep telefonu veya haberleşme cihazlarını ele alarak konuşmak/mesajlaşmak (7574 SK güncel).",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 73/c, 7574 Sayılı Kanun",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-78-1-a",
+    "madde": "78/1-a",
+    "cezaPuani": 15,
+    "cezaPuaniAciklama": "15 Ceza Puanı",
+    "uygulanan": "Sürücüye ve Yolculara",
+    "aciklama": "Seyir esnasında emniyet kemeri takmamak (7574 SK güncel).",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 78/1-a, 7574 Sayılı Kanun",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-78-1-b",
+    "madde": "78/1-b",
+    "cezaPuani": 15,
+    "cezaPuaniAciklama": "15 Ceza Puanı",
+    "uygulanan": "Sürücüye ve Yolcuya",
+    "aciklama": "Motosiklet, motorlu bisiklet ve skuter sürerken kask takmamak.",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 78/1-b",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-46-2-f",
+    "madde": "46/2-f",
+    "cezaPuani": null,
+    "cezaPuaniAciklama": "Ceza puanı uygulanmaz",
+    "uygulanan": "Sürücüye",
+    "aciklama": "Aracı kasıtlı olarak kaydırarak spin atmak, drift yapmak (7574 SK güncel).",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 46/2-f (7574 SK ile değişik)",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-46-2-g",
+    "madde": "46/2-g",
+    "cezaPuani": 20,
+    "cezaPuaniAciklama": "20 Ceza Puanı",
+    "uygulanan": "Sürücüye",
+    "aciklama": "Trafikte araçlar arasında tehlikeli şekilde ardı ardına makas atmak (7574 SK güncel).",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 46/2-g (7574 SK ile değişik), TCK Md. 179/2",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-46-2-h",
+    "madde": "46/2-h",
+    "cezaPuani": 20,
+    "cezaPuaniAciklama": "20 Ceza Puanı",
+    "uygulanan": "Sürücüye veya Tescil Plakasına",
+    "aciklama": "Zorunlu hal olmaksızın otoyol ve ekspres yollarda emniyet şeridini kullanmak (7574 SK güncel).",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 46/2-h, 7574 Sayılı Kanun",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-46-2-c",
+    "madde": "46/2-c",
+    "cezaPuani": 20,
+    "cezaPuaniAciklama": "20 Ceza Puanı",
+    "uygulanan": "Sürücüye",
+    "aciklama": "Tek yönlü yollarda veya bölünmüş yollarda ters yöne girerek araç sürmek (7574 SK güncel).",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 46/2-c, 7574 Sayılı Kanun",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-46-2-a",
+    "madde": "46/2-a",
+    "cezaPuani": 20,
+    "cezaPuaniAciklama": "20 Ceza Puanı",
+    "uygulanan": "Sürücüye",
+    "aciklama": "Ağır vasıtaların veya yavaş gidenlerin sağ şeridi kullanmaması.",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 46/2-a",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-46-2-d",
+    "madde": "46/2-d",
+    "cezaPuani": 20,
+    "cezaPuaniAciklama": "20 Ceza Puanı",
+    "uygulanan": "Sürücüye",
+    "aciklama": "Çok şeritli karayollarında ve otoyollarda gereksiz yere sürekli en sol şeridi işgal etmek.",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 46/2-d",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-54-1-a",
+    "madde": "54/1-a",
+    "cezaPuani": 20,
+    "cezaPuaniAciklama": "20 Ceza Puanı",
+    "uygulanan": "Sürücüye",
+    "aciklama": "Öndeki aracı geçerken sollama kurallarına riayet etmemek.",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 54/1-a",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-54-1-b",
+    "madde": "54/1-b",
+    "cezaPuani": 20,
+    "cezaPuaniAciklama": "20 Ceza Puanı",
+    "uygulanan": "Sürücüye",
+    "aciklama": "Tünel, dönemeç, tepe üstü, yaya geçidi ve kavşaklarda sollama yapmak.",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 54/1-b",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-56-1-e",
+    "madde": "56/1-e",
+    "cezaPuani": 20,
+    "cezaPuaniAciklama": "20 Ceza Puanı",
+    "uygulanan": "Sürücüye",
+    "aciklama": "Öndeki aracı güvenli mesafeden takip etmemek (hızının yarısı kuralı).",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 56/1-e",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-57-1-e",
+    "madde": "57/1-e",
+    "cezaPuani": 20,
+    "cezaPuaniAciklama": "20 Ceza Puanı",
+    "uygulanan": "Sürücüye",
+    "aciklama": "Ambulans, itfaiye ve polis araçlarına fermuar sistemiyle yol açmamak (7574 SK güncel).",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 57/1-e (7574 SK ile değişik)",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-73-a",
+    "madde": "73/a",
+    "cezaPuani": 20,
+    "cezaPuaniAciklama": "20 Ceza Puanı",
+    "uygulanan": "Sürücüye",
+    "aciklama": "Başka aracı ısrarla takip etmek, tehdit etmek, araçtan inerek saldırmak (7574 SK güncel).",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 73/a (7574 SK ile değişik), TCK Md. 179/2",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-74-a",
+    "madde": "74/a",
+    "cezaPuani": 20,
+    "cezaPuaniAciklama": "20 Ceza Puanı",
+    "uygulanan": "Sürücüye",
+    "aciklama": "Işıksız yaya ve okul geçitlerinde yayalara ilk geçiş hakkını vermemek (7574 SK güncel).",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 74/a, 7574 Sayılı Kanun",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-30-1-a",
+    "madde": "30/1-a",
+    "cezaPuani": 20,
+    "cezaPuaniAciklama": "20 Ceza Puanı",
+    "uygulanan": "Sürücüye",
+    "aciklama": "Servis freni, lastikleri, farları, fren ve stop lambaları bozuk veya eksik araç kullanmak.",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 30/1-a",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-30-1-b",
+    "madde": "30/1-b",
+    "cezaPuani": 20,
+    "cezaPuaniAciklama": "20 Ceza Puanı",
+    "uygulanan": "Sürücüye",
+    "aciklama": "Görüşü engelleyen cam filmi veya çevreyi rahatsız edecek egzoz bulundurmak.",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 30/1-b",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-31-1-b",
+    "madde": "31/1-b",
+    "cezaPuani": 20,
+    "cezaPuaniAciklama": "20 Ceza Puanı",
+    "uygulanan": "Sürücü ve İşletene",
+    "aciklama": "Kamyon, çekici, otobüslerde takograf veya taksilerde taksimetre bulundurmamak veya kullanmamak.",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 31/1-b",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-31-2",
+    "madde": "31/2",
+    "cezaPuani": 20,
+    "cezaPuaniAciklama": "20 Ceza Puanı",
+    "uygulanan": "İşletene ve Sürücüye",
+    "aciklama": "Takografa mıknatıs koymak, kalibrasyonunu bozmak veya hileli düzenek kullanmak (7574 SK güncel).",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 31/2 (7574 SK ile değişik)",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-67-1-a",
+    "madde": "67/1-a",
+    "cezaPuani": 20,
+    "cezaPuaniAciklama": "20 Ceza Puanı",
+    "uygulanan": "Sürücüye",
+    "aciklama": "Sağa ve sola dönüşlerde veya şerit değiştirirken sinyal lambalarını kullanmamak.",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 67/1-a",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-67-1-d",
+    "madde": "67/1-d",
+    "cezaPuani": 20,
+    "cezaPuaniAciklama": "20 Ceza Puanı",
+    "uygulanan": "Sürücüye",
+    "aciklama": "Karayollarında izinsiz olarak araç yarışı düzenlemek veya yarış yapmak (7574 SK güncel).",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 67/1-d (7574 SK ile değişik)",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-72",
+    "madde": "72",
+    "cezaPuani": 10,
+    "cezaPuaniAciklama": "10 Ceza Puanı",
+    "uygulanan": "Sürücüye",
+    "aciklama": "Araçlarda çevreyi rahatsız edecek şekilde aşırı yüksek sesle müzik dinlemek.",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 72",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-73-b",
+    "madde": "73/b",
+    "cezaPuani": 10,
+    "cezaPuaniAciklama": "10 Ceza Puanı",
+    "uygulanan": "Sürücüye veya Yolcuya",
+    "aciklama": "Seyir halinde veya dururken araçtan yola çöp, pet şişe veya izmarit atmak.",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 73/b",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-65-1-a",
+    "madde": "65/1-a",
+    "cezaPuani": null,
+    "cezaPuaniAciklama": "Ceza puanı uygulanmaz",
+    "uygulanan": "İşletene ve Yük Gönderene (Sürücüye Ceza Kesilmez)",
+    "aciklama": "Tartım toleransı üzerinde azami yüklü ağırlığı %10'a kadar aşarak fazla yük taşımak.",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 65/1-a, KTY Md. 128",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-65-1-b",
+    "madde": "65/1-b",
+    "cezaPuani": null,
+    "cezaPuaniAciklama": "Ceza puanı uygulanmaz",
+    "uygulanan": "İşletene ve Yük Gönderene (Sürücüye Ceza Kesilmez)",
+    "aciklama": "Azami yüklü ağırlığı %10 ile %15 arasında aşarak fazla yük taşımak.",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 65/1-b, KTY Md. 128",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-65-1-c",
+    "madde": "65/1-c",
+    "cezaPuani": null,
+    "cezaPuaniAciklama": "Ceza puanı uygulanmaz",
+    "uygulanan": "İşletene ve Yük Gönderene (Sürücüye Ceza Kesilmez)",
+    "aciklama": "Azami yüklü ağırlığı %15 ile %20 arasında aşarak fazla yük taşımak.",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 65/1-c, KTY Md. 128",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-65-1-d",
+    "madde": "65/1-d",
+    "cezaPuani": null,
+    "cezaPuaniAciklama": "Ceza puanı uygulanmaz",
+    "uygulanan": "İşletene ve Yük Gönderene (Sürücüye Ceza Kesilmez)",
+    "aciklama": "Azami yüklü ağırlığı %20 ile %25 arasında aşarak fazla yük taşımak (Seyre İzin Verilmez).",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 65/1-d, KTY Md. 128",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-65-1-e",
+    "madde": "65/1-e",
+    "cezaPuani": null,
+    "cezaPuaniAciklama": "Ceza puanı uygulanmaz",
+    "uygulanan": "İşletene ve Yük Gönderene (Sürücüye Ceza Kesilmez)",
+    "aciklama": "Azami yüklü ağırlığı %25'in üzerinde aşarak ağır aşırı tonajlı yük taşımak (Seyre İzin Verilmez).",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 65/1-e, KTY Md. 128",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-65-1-h",
+    "madde": "65/1-h",
+    "cezaPuani": 20,
+    "cezaPuaniAciklama": "20 Ceza Puanı",
+    "uygulanan": "İşletene ve Sürücüye",
+    "aciklama": "Hafriyat, kum, çakıl gibi malzemeleri brandasız, yola dökülecek şekilde taşımak.",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 65/1-h",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-65-4",
+    "madde": "65/4",
+    "cezaPuani": 20,
+    "cezaPuaniAciklama": "20 Ceza Puanı",
+    "uygulanan": "Sürücüye ve İşletene",
+    "aciklama": "Ağırlık ve boyut kontrol istasyonuna girmeden kaçmak / denetimden kaçınmak.",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 65/4",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-61-1-o",
+    "madde": "61/1-o",
+    "cezaPuani": 10,
+    "cezaPuaniAciklama": "10 Ceza Puanı",
+    "uygulanan": "Sürücüye veya Tescil Plakasına",
+    "aciklama": "Engellilerin araçları için ayrılmış park yerlerine yetkisiz olarak park etmek (2 Kat Ceza).",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 61/1-o",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-61-1-a",
+    "madde": "61/1-a",
+    "cezaPuani": 10,
+    "cezaPuaniAciklama": "10 Ceza Puanı",
+    "uygulanan": "Sürücüye veya Tescil Plakasına",
+    "aciklama": "Park etmenin trafik işareti ile yasaklandığı yerlerde park etmek.",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 61/1-a",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-61-1-n",
+    "madde": "61/1-n",
+    "cezaPuani": 15,
+    "cezaPuaniAciklama": "15 Ceza Puanı",
+    "uygulanan": "Sürücüye veya Tescil Plakasına",
+    "aciklama": "Otoyollarda arıza ve acil hal dışında banket veya emniyet şeridinde park etmek.",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 61/1-n",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-61-1-m",
+    "madde": "61/1-m",
+    "cezaPuani": 10,
+    "cezaPuaniAciklama": "10 Ceza Puanı",
+    "uygulanan": "Sürücüye veya Tescil Plakasına",
+    "aciklama": "Yaya kaldırımlarına araç park ederek yayaların geçişini engellemek.",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 61/1-m",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-81-1-a",
+    "madde": "81/1-a",
+    "cezaPuani": 20,
+    "cezaPuaniAciklama": "20 Ceza Puanı",
+    "uygulanan": "Sürücüye",
+    "aciklama": "Kazaya karıştığı halde kaza yerinde durmamak, reflektör koymamak, güvenlik önlemi almamak.",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 81/1-a",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-ktk-81-1-c",
+    "madde": "81/1-c",
+    "cezaPuani": 20,
+    "cezaPuaniAciklama": "20 Ceza Puanı",
+    "uygulanan": "Sürücüye",
+    "aciklama": "Ölüm veya yaralanma olan kazada zabıtadan izinsiz kaza yerini terk etmek / kaçmak (7574 SK suç düzenlemesi).",
+    "kanuniDayanak": "2918 Sayılı KTK Md. 81/1-c, 7574 Sayılı Kanun, TCK Md. 85, 89",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-stk-4925-26-a",
+    "madde": "26/a",
+    "cezaPuani": null,
+    "cezaPuaniAciklama": "Ceza puanı uygulanmaz",
+    "uygulanan": "İşletene / Yetki Belgesiz Kişiye",
+    "aciklama": "Yetki belgesi almadan veya belgenin kapsamı dışında ticari yolcu veya eşya taşımacılığı yapmak.",
+    "kanuniDayanak": "4925 Sayılı Karayolu Taşıma Kanunu Md. 5 ve Md. 26/a",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-stk-4925-26-e",
+    "madde": "26/e",
+    "cezaPuani": null,
+    "cezaPuaniAciklama": "Ceza puanı uygulanmaz",
+    "uygulanan": "Şoföre ve Yetki Belgesi Sahibine",
+    "aciklama": "Ticari araç kullanan şoförün SRC belgesi (SRC-1, SRC-2, SRC-3, SRC-4) olmaması.",
+    "kanuniDayanak": "4925 Sayılı Karayolu Taşıma Kanunu Md. 26/e",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-stk-4925-26-e-2",
+    "madde": "26/e-2",
+    "cezaPuani": null,
+    "cezaPuaniAciklama": "Ceza puanı uygulanmaz",
+    "uygulanan": "Şoföre",
+    "aciklama": "Ticari taşıt kullanan şoförün geçerli psikoteknik raporunun bulunmaması.",
+    "kanuniDayanak": "4925 Sayılı Karayolu Taşıma Kanunu Md. 26/e, KTY Md. 34",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  },
+  {
+    "id": "cp-stk-4925-26-k",
+    "madde": "26/k",
+    "cezaPuani": null,
+    "cezaPuaniAciklama": "Ceza puanı uygulanmaz",
+    "uygulanan": "Yetki Belgesi Sahibine ve Şoföre",
+    "aciklama": "Şoförün 24 saat içinde 9 saatten fazla araç kullanması veya 4.5 saatlik sürüş sonrası 45 dakika dinlenmemesi.",
+    "kanuniDayanak": "4925 Sayılı Karayolu Taşıma Kanunu Md. 26/k, AETR Sözleşmesi",
+    "kaynak": "EGM Trafik Başkanlığı 2026 Ceza Puanı Cetveli"
+  }
+]

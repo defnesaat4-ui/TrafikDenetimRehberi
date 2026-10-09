@@ -1,0 +1,101 @@
+[
+  {
+    "id": "ehl-48-5-1",
+    "madde": "48/5 (1. Defa)",
+    "islemTuru": "Geri Alma",
+    "sure": "6 Ay",
+    "kosullar": "Yasal sınır üzerinde alkollü araç kullanımı ilk tespiti (hususi otomobilde 0.50 promil, ticari araçlarda 0.20 promil üstü).",
+    "egitimVeyaRapor": "İdari para cezası tahsil edilmiş ve süre tamamlanmış olmalıdır.",
+    "kanuniDayanak": "2918 KTK Md. 48/5"
+  },
+  {
+    "id": "ehl-48-5-2",
+    "madde": "48/5 (2. Defa)",
+    "islemTuru": "Geri Alma",
+    "sure": "2 Yıl",
+    "kosullar": "Geriye doğru 5 yıl içinde ikinci defa alkollü araç kullanıldığı tespit edilmesi.",
+    "egitimVeyaRapor": "Sürücü Davranışlarını Geliştirme Eğitimi (SÜDGE) başarı belgesi ve ceza tahsili şarttır.",
+    "kanuniDayanak": "2918 KTK Md. 48/5"
+  },
+  {
+    "id": "ehl-48-5-3",
+    "madde": "48/5 (3. Defa ve Üzeri)",
+    "islemTuru": "Geri Alma",
+    "sure": "5 Yıl",
+    "kosullar": "Geriye doğru 5 yıl içinde 3 veya daha fazla defa alkollü araç kullanımı tespiti.",
+    "egitimVeyaRapor": "Psikoteknik değerlendirme ve psikiyatri uzmanı muayenesi raporu gereklidir.",
+    "kanuniDayanak": "2918 KTK Md. 48/5"
+  },
+  {
+    "id": "ehl-48-8",
+    "madde": "48/8",
+    "islemTuru": "İptal",
+    "sure": "Kesin İptal",
+    "kosullar": "Uyuşturucu veya uyarıcı madde alarak araç kullanıldığı tespit edilmesi.",
+    "egitimVeyaRapor": "Sürücü belgesi süresiz iptal edilir. TCK Md. 179/3 uyarınca adli işlem yapılır.",
+    "kanuniDayanak": "2918 KTK Md. 48/8, 7574 SK"
+  },
+  {
+    "id": "ehl-48-9",
+    "madde": "48/9",
+    "islemTuru": "Geri Alma",
+    "sure": "2 Yıl",
+    "kosullar": "Alkolmetre cihazına üflemeyi veya uyuşturucu testini reddetmek.",
+    "egitimVeyaRapor": "Süre bitimi ve idari para cezasının ödenmesi.",
+    "kanuniDayanak": "2918 KTK Md. 48/9"
+  },
+  {
+    "id": "ehl-47-1-a",
+    "madde": "47/1-a",
+    "islemTuru": "Geri Alma",
+    "sure": "60 Gün",
+    "kosullar": "Trafiği düzenleme ve denetimle görevli polis veya jandarmanın DUR ihtarına kasten uymayarak kaçmak.",
+    "egitimVeyaRapor": "7574 sayılı Kanun (2026) gereği 60 gün süreyle geri alınır.",
+    "kanuniDayanak": "2918 KTK Md. 47/1-a (7574 SK)"
+  },
+  {
+    "id": "ehl-67-1-d",
+    "madde": "67/1-d",
+    "islemTuru": "Geri Alma",
+    "sure": "60 Gün",
+    "kosullar": "Karayolunda drift yapmak, el freni çekerek spin atmak, tehlikeli kaydırma hareketleri yapmak.",
+    "egitimVeyaRapor": "Geri alma süresi sonunda psikoteknik muayene raporu.",
+    "kanuniDayanak": "2918 KTK Md. 67/1-d"
+  },
+  {
+    "id": "ehl-51-2-c",
+    "madde": "51/2-c (Tekerrür)",
+    "islemTuru": "Geri Alma",
+    "sure": "1 Yıl",
+    "kosullar": "Hız sınırını %50'den fazla aşma (51/2-c) fiilinin 1 yıl içinde 5 kez tekrarlanması.",
+    "egitimVeyaRapor": "Psikoteknik değerlendirme ve psikiyatri muayenesi.",
+    "kanuniDayanak": "2918 KTK Md. 51/2"
+  },
+  {
+    "id": "ehl-118-2",
+    "madde": "118/2 (100 Ceza Puanı 1. Kez)",
+    "islemTuru": "Geri Alma",
+    "sure": "2 Ay",
+    "kosullar": "Bir takvim yılı içinde 100 ceza puanını birinci defa doldurmak.",
+    "egitimVeyaRapor": "Trafik eğitimi alma zorunluluğu.",
+    "kanuniDayanak": "2918 KTK Md. 118/2"
+  },
+  {
+    "id": "ehl-118-3",
+    "madde": "118/3 (100 Ceza Puanı 2. Kez)",
+    "islemTuru": "Geri Alma",
+    "sure": "4 Ay",
+    "kosullar": "Bir takvim yılı içinde 100 ceza puanını ikinci defa doldurmak.",
+    "egitimVeyaRapor": "Psikoteknik değerlendirme ve psikiyatri uzmanı onayı.",
+    "kanuniDayanak": "2918 KTK Md. 118/3"
+  },
+  {
+    "id": "ehl-118-4",
+    "madde": "118/4 (100 Ceza Puanı 3. Kez)",
+    "islemTuru": "İptal",
+    "sure": "Kesin İptal",
+    "kosullar": "Bir takvim yılı içinde 100 ceza puanını üçüncü defa doldurmak.",
+    "egitimVeyaRapor": "Sürücü belgesi iptal edilir, kişi yeniden sürücü kursuna gitmek zorundadır.",
+    "kanuniDayanak": "2918 KTK Md. 118/4"
+  }
+]
